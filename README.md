@@ -1,1 +1,2 @@
-# Managing_notes
+# Notes_App_React
+ 
